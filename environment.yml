@@ -1,0 +1,19 @@
+name: coastal-protection
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - geopandas           # geometry in tables
+  - shapely             # for geometry operations
+  - rasterio            # raster handling
+  - rasterstats         # zonal statistics
+  - pandas              # tabular data
+  - matplotlib          # plotting
+  - jupyter             # notebook support
+  - ipykernel           # notebook support
+  - tqdm                # progress bars
+  - pytest              # testing 
+  - numpy               # n-dim arrays
+  - scikit-learn        # ML algorithms
+
