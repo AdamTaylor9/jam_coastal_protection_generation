@@ -14,7 +14,7 @@ conda activate coastal-protection
 
 ## Notebook Description
 
-### `final_jamaica_coastal_protection_areas copy.ipynb`
+### `final_jamaica_coastal_protection_areas.ipynb`
 This notebook contains all the functions required to generate flood area protections polygons and its respective coastline segment given the flood data.
 
 ## Requirements
