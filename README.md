@@ -3,7 +3,7 @@
 To set up the environment, run the following command:  
 
 ```bash
-conda env create -f environment.yml`
+conda env create -f environment.yml
 ```
 ## Usage
 Activate the Environment
