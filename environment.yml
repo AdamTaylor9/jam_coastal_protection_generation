@@ -16,4 +16,9 @@ dependencies:
   - pytest              # testing 
   - numpy               # n-dim arrays
   - scikit-learn        # ML algorithms
+  - scipy
+  - scikit-image        # For skimage
+
+
+
 
